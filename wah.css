@@ -1,0 +1,35 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+body {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/564x/e9/57/bd/e957bdba6df55cc95f3d267c0f06f5a5.jpg), url(https://s-media-cache-ak0.pinimg.com/564x/e9/57/bd/e957bdba6df55cc95f3d267c0f06f5a5.jpg);
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  font-family: 'Crafty Girls';font-size: 22px;
+}
+
+input {
+  display: inline-block;
+  width: 30%;
+  height: 50px;
+  float: none;
+  text-align: center;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.germanjesus {
+  text-align: center;
+}
